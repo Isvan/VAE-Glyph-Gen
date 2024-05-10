@@ -1,0 +1,9 @@
+Preprocessing/Raw Fonts/*
+Preprocessing/Font Images/*
+Training/checkpoints/*
+Training/intermediateResults/*
+Training/.ipynb_checkpoints
+Training/_pycache_
+.ipynb_checkpoints/
+__pycache__/
+*.png
